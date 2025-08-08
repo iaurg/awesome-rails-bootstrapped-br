@@ -10,7 +10,6 @@ Aqui estão algumas ferramentas e templates úteis para dar o pontapé inicial n
 
 - [Bullet Train](https://bullettrain.co/) - Um kit completo para construir SaaS rapidamente com Ruby on Rails.
 - [Business Class Kit](https://businessclasskit.com/) - Templates de alta qualidade para SaaS.
-- [SaasLit](https://saaslit.com/) - Um framework leve para lançar SaaS rapidamente.
 - [Tailstart](https://github.com/bdavidxyz/tailstart) - Template Rails com Tailwind para desenvolver SaaS.
 - [Authentication Zero](https://github.com/lazaronixon/authentication-zero) - Um gerador simples para adicionar autenticação ao seu app Rails sem dependências externas.
 - [Administration Zero](https://github.com/lazaronixon/administration-zero) - Um gerador de painel de administração fácil de usar para apps Rails.
@@ -24,12 +23,12 @@ Aqui estão algumas ferramentas e templates úteis para dar o pontapé inicial n
 
 Conhecimento é poder! Esses livros ajudarão você a estruturar e lançar seu negócio bootstraped com uma mentalidade Lean:
 
-- [Getting Real e Shape Up](https://livros.37signals.com/) - Livros da 37signals em português, abordando a criação de produtos de software com foco em simplicidade e eficiência.
+- [Getting Real e Shape Up](https://basecamp.com/books#gettingreal) - Livros da 37signals em português, abordando a criação de produtos de software com foco em simplicidade e eficiência.
 - [Bootstrapper’s Bookshelf](https://thebootstrappedfounder.com/bookshelf/) - Uma coleção essencial de livros para empreendedores que seguem a mentalidade bootstrapper.
 - [Não Me Faça Pensar](https://www.altabooks.com.br/produto/nao-me-faca-pensar-atualizado/) - Clássico de Steve Krug sobre usabilidade, atualizado para a era dos dispositivos móveis. Essencial para evitar problemas de design que frustram os usuários.
-- [A Regra é Não Ter Regras: A Netflix e a Cultura da Reinvenção](https://www.amazon.com.br/Regra-N%C3%A3o-Ter-Regras-Reed-Hastings/dp/8542218993/) - Escrito por Reed Hastings, CEO da Netflix, e Erin Meyer, este livro revela os bastidores da cultura única da Netflix e como seus princípios controversos impulsionaram a empresa a se tornar uma das maiores potências do entretenimento mundial.
-- [Receita Previsível: Como Implementar a Metodologia Revolucionária de Vendas Outbound](https://www.amazon.com.br/Receita-Previs%C3%ADvel-Metodologia-Revolucion%C3%A1ria-Resultados/dp/8550800651/) - Escrito por Aaron Ross e Marylou Tyler, este livro é considerado a "Bíblia de Vendas do Vale do Silício". A segunda edição revisada e ampliada aborda a metodologia outbound que tem ajudado milhares de empresas a tornarem suas receitas mais previsíveis e escaláveis.
-- [Apaixone-se pelo Problema, Não pela Solução](https://www.amazon.com.br/Apaixone-se-pelo-problema-n%C3%A3o-solu%C3%A7%C3%A3o/dp/6555443803/) - Escrito por Uri Levine, cofundador do Waze e do Moovit, este livro revela os bastidores da criação de dois unicórnios e oferece orientações valiosas para empreendedores. Embora o foco seja em venture capital, muitas das lições podem ser aproveitadas por quem busca construir negócios inovadores e escaláveis.
+- [A Regra é Não Ter Regras: A Netflix e a Cultura da Reinvenção](https://www.amazon.com.br/regra-n%C3%A3o-ter-regras-reinven%C3%A7%C3%A3o/dp/6555600314/) - Escrito por Reed Hastings, CEO da Netflix, e Erin Meyer, este livro revela os bastidores da cultura única da Netflix e como seus princípios controversos impulsionaram a empresa a se tornar uma das maiores potências do entretenimento mundial.
+- [Receita Previsível: Como Implementar a Metodologia Revolucionária de Vendas Outbound](https://www.amazon.com.br/Receita-Previs%C3%ADvel-implementar-metodologia-revolucion%C3%A1ria/dp/6586040825/) - Escrito por Aaron Ross e Marylou Tyler, este livro é considerado a "Bíblia de Vendas do Vale do Silício". A segunda edição revisada e ampliada aborda a metodologia outbound que tem ajudado milhares de empresas a tornarem suas receitas mais previsíveis e escaláveis.
+- [Apaixone-se pelo Problema, Não pela Solução](https://www.amazon.com.br/Apaixone-se-pelo-problema-pela-solu%C3%A7%C3%A3o/dp/6550472423/) - Escrito por Uri Levine, cofundador do Waze e do Moovit, este livro revela os bastidores da criação de dois unicórnios e oferece orientações valiosas para empreendedores. Embora o foco seja em venture capital, muitas das lições podem ser aproveitadas por quem busca construir negócios inovadores e escaláveis.
 
 ---
 
@@ -39,6 +38,7 @@ Aqui estão alguns recursos para integrar inteligência artificial em seus proje
 
 - [Raix Rails](https://github.com/OlympiaAI/raix-rails) - Ruby AI eXtensions for Rails.
 - [Langchainrb Rails](https://github.com/patterns-ai-core/langchainrb_rails) - Integração do Langchain com Ruby on Rails para incorporar modelos de linguagem avançados em suas aplicações.
+- [RubyLLM](https://rubyllm.com/) - Uma única API para ChatGPT, Claude, Gemini, e mais. Chat, images, embeddings, tools.
 
 ---
 
@@ -123,6 +123,7 @@ Aqui estão algumas bibliotecas JavaScript úteis para integrar em seus projetos
 
 Aqui estão algumas ferramentas úteis para gravar vídeos de alta qualidade para seus projetos:
 
+- [OBS Studio](https://obsproject.com/pt-br) - Ferramenta open source mais famosa e utilizada para gravação de vídeos.
 - [Screen Studio](https://screen.studio/) - Uma ferramenta fácil de usar para gravar vídeos e compartilhar de forma rápida e eficiente.
 - [Tella](https://www.tella.tv/) - Ferramenta para criar vídeos gravados e compartilhar com facilidade, ideal para tutoriais e apresentações.
 - [mmhmm](https://www.mmhmm.app/home) - Ferramenta de vídeo que permite criar apresentações interativas e engajantes, com fundos e layouts personalizáveis.
